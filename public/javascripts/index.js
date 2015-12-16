@@ -1,5 +1,5 @@
 $(function(){
 	$('.test').click(function(){
-		$('.container').hide();
+		window.location = '/demo';
 	})
 })
